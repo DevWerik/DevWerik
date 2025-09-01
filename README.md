@@ -45,7 +45,7 @@
 #### 📚 **Studying now**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=React.js)&nbsp;
+![React.js](Bug fixesBug fixes/-React.js-0D1117?style=for-the-badge&logo=React.js)&nbsp;
 
 ---
 
