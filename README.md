@@ -43,9 +43,9 @@
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion)&nbsp;
 
 #### 📚 **Studying now**
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma)&nbsp;
-![React.js](Bug fixesBug fixes/-React.js-0D1117?style=for-the-badge&logo=React.js)&nbsp;
 
 ---
 
