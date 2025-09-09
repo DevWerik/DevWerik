@@ -53,7 +53,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/werik-anjos-a33b22317/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-<a href="mailto:werik.anjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="mailto:werikanjos02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </div>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A356F7&height=120&section=footer"/>
