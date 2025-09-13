@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre mim  
 
-💡 Sempre em busca de aprender novas tecnologias e criar projetos com impacto real.  
-🎯 Objetivo: crescer como **Desenvolvedor Fullstack** construindo aplicações modernas e escaláveis.  
-📚 Atualmente estudando **React, Node.js, PostgreSQL e Prisma** para fortalecer minhas habilidades.  
+Desenvolvedor Fullstack em formação, com foco em criar soluções modernas e escaláveis.
+Busco aprimorar minhas habilidades em React, Node.js, PostgreSQL e Prisma para desenvolver
+projetos de impacto real e que resolvam desafios complexos.
 
 ---
 
