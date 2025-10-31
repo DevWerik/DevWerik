@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim  
 
 Desenvolvedor Fullstack em formação, com foco em criar soluções modernas e escaláveis.
-Busco aprimorar minhas habilidades em React, Node.js, PostgreSQL e Prisma para desenvolver
+Busco aprimorar minhas habilidades em React, Node.js, TypeScript, PostgreSQL e Prisma para desenvolver
 projetos de impacto real e que resolvam desafios complexos.
 
 ---
