@@ -13,15 +13,15 @@ projetos de impacto real e que resolvam desafios complexos.
 
 ---
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  -->
 
-<div align="center">  
+<!-- <div align="center">  
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevWerik&show_icons=true&count_private=true&hide_border=true&title_color=A356F7&icon_color=A356F7&text_color=c9d1d9&bg_color=0d1117" alt="DevWerik stats"/>  
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWerik&layout=compact&hide_border=true&title_color=A356F7&text_color=c9d1d9&bg_color=0d1117"/>  
 
-</div>  
+</div>   -->
 
 [![Werik's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevWerik&bg_color=0d1117&color=A356F7&line=A356F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
