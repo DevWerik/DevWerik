@@ -292,33 +292,7 @@ Inteligência Artificial    ███████░░░  Aplicação em proje
 
 > Meu objetivo não é apenas aprender novas tecnologias, mas compreender quando e por que utilizá-las para resolver problemas reais.
 
----
-
-## `07.` Contribuições
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Animação das contribuições de Werik Anjos"
-    src="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-## `08.` Vamos construir algo relevante?
+## `07.` Vamos construir algo relevante?
 
 <div align="center">
 
