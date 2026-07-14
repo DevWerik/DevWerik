@@ -27,10 +27,43 @@
 ---
 
 # 🚀 Sobre mim
+Sou Desenvolvedor Full Stack com experiência prática na construção de aplicações web modernas, responsivas e escaláveis. Trabalho principalmente com **React, TypeScript, JavaScript e Node.js**, desenvolvendo desde interfaces até servidores, APIs e integrações com serviços externos.
 
-Desenvolvedor Full Stack com foco na construção de aplicações modernas utilizando React, TypeScript, Node.js e APIs de Inteligência Artificial.
+Minha experiência foi construída por meio de projetos autorais, trabalhos freelancer e atividades realizadas no **Instituto Social Sertão**. Durante essa trajetória, desenvolvi soluções com gerenciamento de estados, autenticação, consumo de APIs, bancos de dados, pagamentos digitais e Inteligência Artificial.
 
-Tenho interesse em arquitetura de software, interfaces performáticas, integração de IA e desenvolvimento de aplicações escaláveis.
+Atualmente, busco oportunidades como **Desenvolvedor Full Stack Júnior, Desenvolvedor Front-end, Back-end ou Estagiário em Desenvolvimento de Software**.
+
+## 💻 Tecnologias
+
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS  
+**Back-end:** Node.js, Express e APIs REST  
+**Banco de dados:** PostgreSQL e fundamentos de modelagem de dados  
+**Ferramentas:** Git, GitHub, Docker, Vite, testes automatizados e deploy  
+**Outros conhecimentos:** Context API, React Router, React Hook Form, acessibilidade, performance e integração com Inteligência Artificial
+
+## 📌 Projetos em destaque
+
+### 🤖 Lulu IA
+Chatbot desenvolvido com React, TypeScript e Node.js, integrado a uma API de Inteligência Artificial para processar mensagens e gerar respostas.
+
+### 🍕 PizzaShop
+Aplicação para gerenciamento de pedidos de uma pizzaria, com interface responsiva, consumo de API, autenticação e visualização de métricas.
+
+### ✅ Task Management
+Sistema de gerenciamento de tarefas desenvolvido para organizar atividades, prioridades e status de execução.
+
+### 🥗 Daily Diet
+API para acompanhamento de refeições e hábitos alimentares, aplicando conceitos de Node.js, regras de negócio e banco de dados.
+
+## 🎯 Meu objetivo
+
+Criar soluções digitais que combinem boa experiência do usuário, organização de código, performance e valor para o negócio. Estou sempre aprimorando meus conhecimentos em arquitetura de software, desenvolvimento de APIs e aplicações escaláveis.
+
+## 📫 Contato
+
+Confira meus projetos e acompanhe minha evolução:
+
+[GitHub — DevWerik](https://github.com/DevWerik)
 
 ---
 
