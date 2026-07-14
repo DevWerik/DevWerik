@@ -1,166 +1,344 @@
+<!-- Apresentação principal -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,100:2563EB&text=Werik%20Anjos&fontColor=F8FAFC&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=56&animation=fadeIn"/>
+
 <div align="center">
 
-# Olá, eu sou Werik Anjos 👋
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas+e+escal%C3%A1veis;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Transformando+problemas+em+solu%C3%A7%C3%B5es+digitais;Interfaces%2C+APIs+e+Intelig%C3%AAncia+Artificial"
+    alt="Apresentação profissional de Werik Anjos"
+  />
+</a>
 
-### Desenvolvedor Full Stack | React • TypeScript • Node.js • PostgreSQL
+<br>
 
-Desenvolvo aplicações web modernas, responsivas e orientadas à experiência do usuário.
+Desenvolvedor focado em criar experiências digitais  
+**funcionais, acessíveis e orientadas a resultados.**
 
 <br>
 
 <a href="https://www.linkedin.com/in/werikanjos">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://wasportifolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+</a>
+<a href="mailto:werikanjos02@gmail.com">
+  <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
-<a href="mailto:werikanjos02@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DevWerik&label=VISITAS&color=2563EB&style=flat-square" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `01.` Sobre mim
+
+```typescript
+const werik = {
+  cargo: "Desenvolvedor Full Stack",
+  localizacao: "Brasil",
+  experiencia: [
+    "Projetos autorais",
+    "Trabalhos freelancer",
+    "Instituto Social Sertão"
+  ],
+  frontend: ["React", "TypeScript", "JavaScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "APIs REST"],
+  database: ["PostgreSQL"],
+  interesses: [
+    "Arquitetura de Software",
+    "Performance",
+    "Acessibilidade",
+    "Inteligência Artificial"
+  ],
+  objetivo: "Criar soluções digitais que gerem valor real"
+};
+```
 
 Sou **Desenvolvedor Full Stack** com experiência prática na construção de aplicações web modernas, responsivas e escaláveis.
 
-Trabalho principalmente com **React, TypeScript, JavaScript e Node.js**, desenvolvendo interfaces, componentes reutilizáveis, servidores, APIs e integrações com serviços externos.
+Atuo no desenvolvimento de interfaces, componentização, gerenciamento de estados, criação de servidores, consumo de APIs, integração com bancos de dados e implementação de funcionalidades com Inteligência Artificial.
 
-Minha trajetória inclui projetos autorais, trabalhos freelancer e atividades realizadas no **Instituto Social Sertão**. Ao longo desse processo, desenvolvi conhecimentos em:
+Minha trajetória foi construída por meio de **projetos autorais, trabalhos freelancer e experiências no Instituto Social Sertão**, aplicando conhecimentos técnicos na resolução de necessidades reais.
 
-- Desenvolvimento de interfaces responsivas;
-- Componentização e gerenciamento de estados;
-- Consumo e integração de APIs REST;
-- Criação de servidores com Node.js;
-- Integração com bancos de dados;
-- Autenticação e regras de negócio;
-- Acessibilidade e performance;
-- Integração de aplicações com Inteligência Artificial.
-
-Atualmente, estou aberto a oportunidades como **Desenvolvedor Full Stack Júnior, Desenvolvedor Front-end, Desenvolvedor Back-end ou Estagiário em Desenvolvimento de Software**.
+Atualmente, busco oportunidades como **Desenvolvedor Full Stack Júnior, Desenvolvedor Front-end, Desenvolvedor Back-end ou Estagiário em Desenvolvimento de Software**.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## `02.` O que eu entrego
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎨 Front-end
+
+- Interfaces modernas e responsivas;
+- Componentes reutilizáveis;
+- Gerenciamento de estados;
+- Formulários e validações;
+- Integração com APIs;
+- Acessibilidade e performance.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚙️ Back-end
+
+- Servidores com Node.js;
+- Desenvolvimento de APIs REST;
+- Implementação de regras de negócio;
+- Integração com bancos de dados;
+- Tratamento de requisições;
+- Organização e manutenção de código.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Inteligência Artificial
+
+- Integração com APIs de IA;
+- Desenvolvimento de chatbots;
+- Processamento de mensagens;
+- Automação de funcionalidades;
+- Comunicação entre cliente e servidor.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🧩 Qualidade de software
+
+- Código organizado e reutilizável;
+- Git e versionamento;
+- Design responsivo;
+- Boas práticas de desenvolvimento;
+- Testes automatizados;
+- Deploy de aplicações.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## `03.` Stack tecnológica
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,postgres,git,github,docker,vscode" alt="Tecnologias">
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="Tecnologias de front-end"/>
+
+<br><br>
+
+### Back-end e banco de dados
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Tecnologias de back-end"/>
+
+<br><br>
+
+### Ferramentas e ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm&theme=dark" alt="Ferramentas de desenvolvimento"/>
 
 </div>
 
 <br>
 
-| Área | Tecnologias |
-|---|---|
-| **Front-end** | React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS |
-| **Back-end** | Node.js, Express e APIs REST |
-| **Banco de dados** | PostgreSQL e fundamentos de modelagem de dados |
-| **Gerenciamento de estado** | Context API e React Hooks |
-| **Formulários e navegação** | React Hook Form e React Router |
-| **Ferramentas** | Git, GitHub, Docker, Vite, npm e VS Code |
-| **Qualidade** | Responsividade, acessibilidade, performance e boas práticas |
+<div align="center">
+
+![React](https://img.shields.io/badge/React-Intermediário-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediário-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Em_evolução-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Em_evolução-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+## `04.` Projetos que representam meu trabalho
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🤖 [Lulu IA](https://github.com/DevWerik/Lulu-IA)
 
-Aplicação de chatbot desenvolvida com uma estrutura de front-end e servidor Node.js, voltada à integração com serviços de Inteligência Artificial e ao processamento de mensagens.
+Chatbot criado para explorar a comunicação entre uma interface web, um servidor Node.js e uma API de Inteligência Artificial.
 
-**Principais conhecimentos aplicados:**
+**Destaques técnicos**
 
-- Integração com API de Inteligência Artificial;
-- Criação de servidor com Node.js;
-- Comunicação entre front-end e back-end;
-- Processamento de mensagens e respostas.
+- Integração com serviço de IA;
+- Processamento de mensagens;
+- Comunicação front-end e back-end;
+- Criação de servidor Node.js;
+- Consumo e tratamento de API.
 
----
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-2563EB?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
-### ✅ [To-Do List Interativa](https://github.com/DevWerik/To-Do-List)
+</td>
+    <td width="50%" valign="top">
 
-Aplicação para gerenciamento de tarefas que permite adicionar, editar, remover e alterar o status das atividades.
+### ✅ [To-Do List](https://github.com/DevWerik/To-Do-List)
 
-**Tecnologias:** React, TypeScript, React Router, Tailwind CSS, Vite e JSON Server.
+Aplicação para gerenciamento de tarefas com operações de criação, edição, exclusão e atualização de status.
 
-**Principais conhecimentos aplicados:**
+**Destaques técnicos**
 
-- Componentização;
-- Hooks personalizados;
+- Componentização com React;
 - Tipagem com TypeScript;
-- Roteamento;
-- Simulação de requisições HTTP;
-- Organização de código.
+- Hooks personalizados;
+- Navegação com React Router;
+- Simulação de API com JSON Server.
 
----
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### 🌐 [Portfólio Pessoal](https://github.com/DevWerik/my-portifolio)
+</td>
+  </tr>
 
-Single Page Application responsiva desenvolvida para apresentar minha trajetória, experiências, habilidades e projetos.
+  <tr>
+    <td width="50%" valign="top">
 
-**Tecnologias:** React, TypeScript, Tailwind CSS, React Hook Form e EmailJS.
+### 🌐 [Portfólio pessoal](https://github.com/DevWerik/my-portifolio)
 
-**Principais conhecimentos aplicados:**
+Aplicação responsiva desenvolvida para apresentar minha trajetória profissional, experiências, habilidades e projetos.
 
-- Design responsivo e abordagem mobile-first;
-- Animações e microinterações;
+**Destaques técnicos**
+
+- Design responsivo e mobile-first;
+- Componentes reutilizáveis;
 - Formulários com validação;
-- Envio de mensagens com EmailJS;
-- Componentes reutilizáveis.
+- Integração com EmailJS;
+- Animações e microinterações.
 
-[🔗 Visualizar projeto](https://wasportifolio.vercel.app/)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+</p>
 
----
+[Ver aplicação online](https://wasportifolio.vercel.app/)
+
+</td>
+    <td width="50%" valign="top">
 
 ### ✉️ [Gerador de Convites](https://github.com/DevWerik/Gerador-de-Convites)
 
-Aplicação web que permite criar convites personalizados por meio de uma interface simples e interativa.
+Aplicação web criada para gerar convites personalizados por meio de uma experiência simples e interativa.
 
-**Tecnologias:** HTML, CSS e JavaScript.
+**Destaques técnicos**
 
-[🔗 Visualizar projeto](https://gerador-convite.netlify.app/)
+- Manipulação do DOM;
+- Eventos com JavaScript;
+- Personalização de informações;
+- Interface responsiva;
+- Publicação da aplicação.
 
----
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-## 📚 Atualmente estudando
+[Ver aplicação online](https://gerador-convite.netlify.app/)
 
-- Arquitetura de software;
-- Desenvolvimento de APIs escaláveis;
-- Testes automatizados;
-- Docker;
-- PostgreSQL;
-- Boas práticas com React e Node.js;
-- Inteligência Artificial aplicada ao desenvolvimento web.
-
----
-
-## 🎯 Objetivo profissional
-
-Busco contribuir para o desenvolvimento de produtos digitais que combinem **boa experiência do usuário, código organizado, performance, acessibilidade e valor para o negócio**.
-
-Tenho interesse em atuar em equipes de desenvolvimento nas quais possa colaborar, receber feedback, aprofundar meus conhecimentos técnicos e participar da construção de soluções reais.
-
----
-
-## 📫 Entre em contato
+</td>
+  </tr>
+</table>
 
 <div align="center">
 
-Estou disponível para oportunidades, projetos e colaboração em desenvolvimento de software.
+### [Explorar todos os meus repositórios →](https://github.com/DevWerik?tab=repositories)
+
+</div>
+
+---
+
+## `05.` Minha evolução
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevWerik&bg_color=020617&color=94A3B8&line=3B82F6&point=F8FAFC&area=true&area_color=1D4ED8&hide_border=true&custom_title=Atividade%20nos%20últimos%2031%20dias" alt="Gráfico de atividades de Werik"/>
+
+</div>
+
+---
+
+## `06.` Atualmente aprofundando
+
+```text
+Arquitetura de software    ███████░░░  Evoluindo
+Node.js e APIs REST        ████████░░  Prática constante
+PostgreSQL                 ██████░░░░  Aprofundando
+Testes automatizados       █████░░░░░  Em desenvolvimento
+Docker                     █████░░░░░  Em desenvolvimento
+Inteligência Artificial    ███████░░░  Aplicação em projetos
+```
+
+> Meu objetivo não é apenas aprender novas tecnologias, mas compreender quando e por que utilizá-las para resolver problemas reais.
+
+---
+
+## `07.` Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Animação das contribuições de Werik Anjos"
+    src="https://raw.githubusercontent.com/DevWerik/DevWerik/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## `08.` Vamos construir algo relevante?
+
+<div align="center">
+
+Estou disponível para oportunidades profissionais, projetos freelancer  
+e colaborações em desenvolvimento de software.
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/werikanjos">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Conversar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:werikanjos02@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  <img src="https://img.shields.io/badge/Enviar_um_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
+<br><br>
+
+**Código com propósito. Aprendizado contínuo. Soluções que geram valor.**
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,45:0F172A,100:020617"/>
