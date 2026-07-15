@@ -140,7 +140,7 @@ Atualmente, busco oportunidades como **Desenvolvedor Full Stack Júnior, Desenvo
 
 ### Back-end e banco de dados
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Tecnologias de back-end"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,nest,prisma&theme=dark" alt="Tecnologias de back-end"/>
 
 <br><br>
 
