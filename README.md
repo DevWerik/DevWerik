@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas+e+escal%C3%A1veis;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Transformando+problemas+em+solu%C3%A7%C3%B5es+digitais;Interfaces%2C+APIs+e+Intelig%C3%AAncia+Artificial"
-    alt="Apresentação profissional de Werik Anjos"
+    alt="Apresentação profissional de Werik Santos"
   />
 </a>
 
