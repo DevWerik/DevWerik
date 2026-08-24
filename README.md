@@ -12,9 +12,9 @@ alt="Werik Santos — Desenvolvedor Full Stack"
 
 <div align="center">
 
-Construo produtos web claros, acessíveis e preparados para evoluir.
+Transformo necessidades de produto em experiências web claras e soluções preparadas para evoluir.
 
-Desenvolvedor com foco em React e Node.js, transformando necessidades de produto em interfaces responsivas e APIs organizadas e testáveis.
+Sou Werik Santos, Desenvolvedor Full Stack com foco em React, TypeScript e Node.js. Conecto interface, regras de negócio e integrações para entregar produtos responsivos, acessíveis e confiáveis.
 
 <br>
 
@@ -32,13 +32,13 @@ Desenvolvedor com foco em React e Node.js, transformando necessidades de produto
 
 Sobre mim
 
-Sou Desenvolvedor Full Stack com experiência prática na construção e manutenção de aplicações web. Atuo desde a interface até a camada de servidor, com atenção à acessibilidade, à experiência de uso e à sustentabilidade do código.
+Desenvolvo aplicações de ponta a ponta: transformo requisitos em fluxos simples, construo interfaces, estruturo APIs e conecto dados e serviços externos. Em cada entrega, busco equilibrar experiência de uso, clareza de código e segurança para evoluir o produto.
 
-Minha trajetória reúne projetos autorais, trabalhos freelancer e atuação profissional no SIM Instituto Social. Nesse caminho, desenvolvi interfaces, integrações com APIs, fluxos validados, serviços back-end, persistência de dados, testes automatizados e funcionalidades com Inteligência Artificial.
+Minha trajetória combina atuação profissional no SIM Instituto Social, trabalhos freelancer e projetos autorais. Essas experiências me aproximaram de desafios reais: organizar regras de negócio, proteger integrações, tratar falhas, validar fluxos e manter aplicações compreensíveis à medida que crescem.
 
+Visão rápida
 
-
-
+Detalhes
 
 Localização
 
@@ -46,15 +46,15 @@ Salvador, Bahia — Brasil
 
 Atuação
 
-Desenvolvimento Full Stack, com foco em React e Node.js
+Desenvolvimento Full Stack, da interface à API
 
-Princípios
+Base técnica
 
-Clareza, acessibilidade, código sustentável e decisões técnicas com propósito
+React, TypeScript, Node.js e PostgreSQL
 
-Objetivo
+Forma de trabalhar
 
-Criar soluções digitais confiáveis que entreguem valor real ao produto e às pessoas
+Clareza, acessibilidade, testes e decisões técnicas com propósito
 
 Experiência
 
@@ -62,21 +62,27 @@ Desenvolvedor Front-end · SIM Instituto Social
 
 Tempo parcial · mar. de 2025 — atualmente
 
-Desenvolvimento e manutenção de funcionalidades da plataforma web, atuando em interface, integrações com APIs e experiência do usuário;
+Atuo na evolução do produto digital do instituto, conectando front-end, back-end e serviços externos para tornar a experiência mais simples e confiável.
 
-Entrega de um chatbot full stack com React, TypeScript, Node.js e OpenAI API, incluindo gerenciamento de conversas e respostas em tempo real;
+Principais entregas
 
-Estruturação da camada de servidor para centralizar requisições, proteger credenciais e tratar respostas e falhas da integração;
+Desenvolvo e mantenho funcionalidades da plataforma web, da interface às integrações com APIs;
 
-Implementação de validações, feedbacks e estados de carregamento, sucesso e erro para tornar os fluxos mais claros e confiáveis;
+Construí e entreguei um chatbot full stack com conversas e respostas em tempo real;
 
-Refatoração de componentes e fluxos em React e TypeScript, aprimorando tipagem, organização e manutenibilidade.
+Estruturei a camada de servidor para centralizar requisições, proteger credenciais e tratar falhas da OpenAI API;
+
+Tornei os fluxos mais previsíveis com validações, feedbacks e estados de carregamento, sucesso e erro;
+
+Refatorei componentes e jornadas em React e TypeScript, fortalecendo tipagem, organização e manutenibilidade.
 
 React · TypeScript · Tailwind CSS · shadcn/ui · Context API · React Hook Form · Zod · Node.js · OpenAI API
 
 Tecnologias aplicadas com propósito
 
 Front-end
+
+Interfaces responsivas, acessíveis e organizadas em componentes reutilizáveis.
 
 <p>
   <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=FFFFFF" alt="React">
@@ -92,6 +98,8 @@ Front-end
 
 Back-end e dados
 
+APIs, regras de negócio, validação e persistência com responsabilidades bem definidas.
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
   <img src="https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS">
@@ -103,6 +111,8 @@ Back-end e dados
 </p>
 
 Qualidade e ferramentas
+
+Testes, versionamento e ferramentas que aumentam a confiança em cada entrega.
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=FFFFFF" alt="Vitest">
@@ -117,23 +127,27 @@ Qualidade e ferramentas
 
 Projetos selecionados
 
+Projetos que mostram como transformo contexto em solução: o problema, as decisões técnicas e o resultado construído.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 · Pizza Shop</h3>
       <p><img src="https://img.shields.io/badge/CONCLUÍDO-18181B?style=flat-square" alt="Projeto concluído"></p>
-      <p>Dashboard web para acompanhar indicadores e gerenciar o fluxo de pedidos de um restaurante.</p>
-      <p><strong>Desafio:</strong> reunir métricas, pedidos e filtros em uma interface clara, inclusive durante carregamentos e atualizações.</p>
-      <p><strong>Solução:</strong> páginas responsivas, rotas organizadas, formulários validados, tabelas filtráveis e gráficos com Recharts.</p>
+      <p>Dashboard para acompanhar indicadores e gerenciar o fluxo de pedidos de um restaurante.</p>
+      <p><strong>O que resolve:</strong> concentra métricas, filtros e pedidos em uma única experiência.</p>
+      <p><strong>Como construí:</strong> organizei rotas, formulários validados, tabelas filtráveis e gráficos responsivos.</p>
+      <p><strong>Resultado:</strong> uma visão consistente da operação, inclusive durante carregamentos e atualizações.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Radix UI</code> <code>Recharts</code> <code>Zod</code></p>
       <p><a href="https://github.com/DevWerik/pizzashop-web"><strong>Ver código-fonte →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · API de controle financeiro</h3>
       <p><img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-18181B?style=flat-square" alt="Projeto em desenvolvimento"></p>
-      <p>API para organizar regras e dados de uma plataforma de controle financeiro.</p>
-      <p><strong>Desafio:</strong> estruturar transações, orçamentos e despesas sem acoplar as regras de negócio à infraestrutura.</p>
-      <p><strong>Solução:</strong> responsabilidades bem definidas, persistência em PostgreSQL, validação por schemas e testes automatizados.</p>
+      <p>API que organiza regras e dados de uma plataforma de controle financeiro.</p>
+      <p><strong>O que resolve:</strong> estrutura transações, orçamentos e despesas sem misturar negócio e infraestrutura.</p>
+      <p><strong>Como estou construindo:</strong> separo responsabilidades, valido contratos e testo comportamentos de forma isolada.</p>
+      <p><strong>Resultado atual:</strong> uma base previsível, testável e preparada para crescer por etapas.</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Zod</code> <code>Vitest</code></p>
       <p><a href="https://weriksantos.vercel.app/#projetos"><strong>Ver estudo de caso →</strong></a></p>
     </td>
@@ -142,16 +156,20 @@ Projetos selecionados
     <td width="50%" valign="top">
       <h3>03 · Lulu IA</h3>
       <p><img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-18181B?style=flat-square" alt="Projeto de Inteligência Artificial"></p>
-      <p>Chatbot full stack criado para explorar a comunicação entre uma interface web, um servidor Node.js e uma API de Inteligência Artificial.</p>
-      <p><strong>Destaques:</strong> gerenciamento de conversas, respostas em tempo real, proteção de credenciais e tratamento de falhas da integração.</p>
+      <p>Chatbot full stack que conecta interface web, servidor Node.js e Inteligência Artificial.</p>
+      <p><strong>O que resolve:</strong> transforma mensagens do usuário em conversas contínuas e respostas em tempo real.</p>
+      <p><strong>Como construí:</strong> centralizei a integração no servidor, protegi credenciais e tratei respostas e falhas.</p>
+      <p><strong>Resultado:</strong> uma comunicação mais segura e uma experiência clara em diferentes estados da conversa.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>OpenAI API</code></p>
       <p><a href="https://github.com/DevWerik/Lulu-IA"><strong>Ver código-fonte →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · Portfólio pessoal</h3>
       <p><img src="https://img.shields.io/badge/ONLINE-18181B?style=flat-square" alt="Projeto online"></p>
-      <p>Aplicação responsiva que apresenta experiência, competências, projetos e formação em uma identidade visual consistente.</p>
-      <p><strong>Destaques:</strong> navegação acessível, conteúdo multilíngue, componentes reutilizáveis, animações e formulário de contato.</p>
+      <p>Experiência digital que reúne trajetória, competências, projetos e formação.</p>
+      <p><strong>O que comunica:</strong> meu posicionamento profissional e a forma como penso produtos web.</p>
+      <p><strong>Como construí:</strong> combinei navegação acessível, conteúdo multilíngue, componentes reutilizáveis e animações intencionais.</p>
+      <p><strong>Resultado:</strong> uma apresentação consistente, responsiva e fácil de explorar.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>GSAP</code> <code>Acessibilidade</code></p>
       <p>
         <a href="https://weriksantos.vercel.app/"><strong>Ver aplicação →</strong></a>
@@ -169,6 +187,8 @@ Explorar todos os repositórios →
 </div>
 
 Formação contínua
+
+Estudo para tomar decisões melhores e aplicar cada conceito em projetos reais — não apenas para acumular tecnologias.
 
 Formação
 
@@ -200,17 +220,17 @@ Rocketseat
 
 2026
 
-Atualmente aprofundando
+Em evolução
 
-Arquitetura de software, Clean Architecture, SOLID e DDD;
+Arquitetura de software: separar responsabilidades e reduzir acoplamento com Clean Architecture, SOLID e DDD;
 
-Design, implementação e documentação de APIs REST;
+APIs REST: criar contratos claros, validações previsíveis e documentação útil;
 
-PostgreSQL, modelagem de dados e persistência;
+Dados: aprofundar modelagem, persistência e consultas com PostgreSQL;
 
-Testes unitários, de integração e E2E;
+Testes: aumentar a confiança com testes unitários, de integração e E2E;
 
-Docker, deploy e evolução segura de aplicações.
+Entrega: evoluir o uso de Docker, deploy e automação de aplicações.
 
 Atividade no GitHub
 
@@ -224,11 +244,11 @@ alt="Gráfico de contribuições recentes de Werik Santos"
 
 </div>
 
-Vamos construir algo relevante?
+Vamos transformar uma ideia em produto?
 
 <div align="center">
 
-Estou disponível para oportunidades profissionais, projetos freelancer e colaborações em desenvolvimento de software.
+Tem uma oportunidade, um desafio de produto ou uma ideia que precisa sair do papel? Estou disponível para oportunidades profissionais, projetos freelancer e colaborações.
 
 <br>
 
