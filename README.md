@@ -36,94 +36,100 @@ Desenvolvo aplicações de ponta a ponta: transformo requisitos em fluxos simple
 
 Minha trajetória combina atuação profissional no SIM Instituto Social, trabalhos freelancer e projetos autorais. Essas experiências me aproximaram de desafios reais: organizar regras de negócio, proteger integrações, tratar falhas, validar fluxos e manter aplicações compreensíveis à medida que crescem.
 
-Visão rápida
-
-Detalhes
-
-Localização
-
-Salvador, Bahia — Brasil
-
-Atuação
-
-Desenvolvimento Full Stack, da interface à API
-
-Base técnica
-
-React, TypeScript, Node.js e PostgreSQL
-
-Forma de trabalhar
-
-Clareza, acessibilidade, testes e decisões técnicas com propósito
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <strong>Localização</strong><br><br>
+      Salvador, Bahia — Brasil
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>Atuação</strong><br><br>
+      Desenvolvimento Full Stack
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>Base técnica</strong><br><br>
+      React · TypeScript · Node.js · PostgreSQL
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>Compromisso</strong><br><br>
+      Clareza · Acessibilidade · Testes
+    </td>
+  </tr>
+</table>
 
 Experiência
 
-Desenvolvedor Front-end · SIM Instituto Social
-
-Tempo parcial · mar. de 2025 — atualmente
-
-Atuo na evolução do produto digital do instituto, conectando front-end, back-end e serviços externos para tornar a experiência mais simples e confiável.
-
-Principais entregas
-
-Desenvolvo e mantenho funcionalidades da plataforma web, da interface às integrações com APIs;
-
-Construí e entreguei um chatbot full stack com conversas e respostas em tempo real;
-
-Estruturei a camada de servidor para centralizar requisições, proteger credenciais e tratar falhas da OpenAI API;
-
-Tornei os fluxos mais previsíveis com validações, feedbacks e estados de carregamento, sucesso e erro;
-
-Refatorei componentes e jornadas em React e TypeScript, fortalecendo tipagem, organização e manutenibilidade.
-
-React · TypeScript · Tailwind CSS · shadcn/ui · Context API · React Hook Form · Zod · Node.js · OpenAI API
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <h3><a href="https://simsertaosocial.org/">SIM Instituto Social</a></h3>
+      <p><strong>Desenvolvedor Front-end</strong></p>
+      <p>Tempo parcial</p>
+      <p>mar. de 2025 — atualmente</p>
+    </td>
+    <td width="70%" valign="top">
+      <h3>Atuação e principais entregas</h3>
+      <p>Atuo na evolução do produto digital do instituto, conectando front-end, back-end e serviços externos para tornar a experiência mais simples e confiável.</p>
+      <ul>
+        <li>Desenvolvo e mantenho funcionalidades da plataforma web, da interface às integrações com APIs;</li>
+        <li>Construí e entreguei um chatbot full stack com conversas e respostas em tempo real;</li>
+        <li>Estruturei a camada de servidor para proteger credenciais e tratar falhas da OpenAI API;</li>
+        <li>Implementei validações, feedbacks e estados de carregamento, sucesso e erro;</li>
+        <li>Refatorei componentes e jornadas, fortalecendo tipagem e manutenibilidade.</li>
+      </ul>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Node.js</code> <code>OpenAI API</code></p>
+    </td>
+  </tr>
+</table>
 
 Tecnologias aplicadas com propósito
 
-Front-end
-
-Interfaces responsivas, acessíveis e organizadas em componentes reutilizáveis.
-
-<p>
-  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=FFFFFF" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/React_Router-18181B?style=flat-square&logo=reactrouter&logoColor=FFFFFF" alt="React Router">
-  <img src="https://img.shields.io/badge/React_Hook_Form-18181B?style=flat-square&logo=reacthookform&logoColor=FFFFFF" alt="React Hook Form">
-  <img src="https://img.shields.io/badge/Zod-18181B?style=flat-square&logo=zod&logoColor=FFFFFF" alt="Zod">
-</p>
-
-Back-end e dados
-
-APIs, regras de negócio, validação e persistência com responsabilidades bem definidas.
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS">
-  <img src="https://img.shields.io/badge/Fastify-18181B?style=flat-square&logo=fastify&logoColor=FFFFFF" alt="Fastify">
-  <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express">
-  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma">
-  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat-square&logo=swagger&logoColor=FFFFFF" alt="APIs REST">
-</p>
-
-Qualidade e ferramentas
-
-Testes, versionamento e ferramentas que aumentam a confiança em cada entrega.
-
-<p>
-  <img src="https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=FFFFFF" alt="Vitest">
-  <img src="https://img.shields.io/badge/Testes_unitários-18181B?style=flat-square&logo=testinglibrary&logoColor=FFFFFF" alt="Testes unitários">
-  <img src="https://img.shields.io/badge/Testes_E2E-18181B?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Testes E2E">
-  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma">
-  <img src="https://img.shields.io/badge/GSAP-18181B?style=flat-square&logo=greensock&logoColor=FFFFFF" alt="GSAP">
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Front-end</h3>
+      <p>Interfaces responsivas, acessíveis e construídas com componentes reutilizáveis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=FFFFFF" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript">
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/React_Router-18181B?style=flat-square&logo=reactrouter&logoColor=FFFFFF" alt="React Router">
+        <img src="https://img.shields.io/badge/React_Hook_Form-18181B?style=flat-square&logo=reacthookform&logoColor=FFFFFF" alt="React Hook Form">
+        <img src="https://img.shields.io/badge/Zod-18181B?style=flat-square&logo=zod&logoColor=FFFFFF" alt="Zod">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Back-end e dados</h3>
+      <p>APIs, regras de negócio, validação e persistência com responsabilidades bem definidas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
+        <img src="https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS">
+        <img src="https://img.shields.io/badge/Fastify-18181B?style=flat-square&logo=fastify&logoColor=FFFFFF" alt="Fastify">
+        <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express">
+        <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma">
+        <img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat-square&logo=swagger&logoColor=FFFFFF" alt="APIs REST">
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>Qualidade e ferramentas</h3>
+      <p>Testes, versionamento e ferramentas que aumentam a confiança em cada entrega.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=FFFFFF" alt="Vitest">
+        <img src="https://img.shields.io/badge/Testes_unitários-18181B?style=flat-square&logo=testinglibrary&logoColor=FFFFFF" alt="Testes unitários">
+        <img src="https://img.shields.io/badge/Testes_E2E-18181B?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Testes E2E">
+        <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+        <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker">
+        <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma">
+        <img src="https://img.shields.io/badge/GSAP-18181B?style=flat-square&logo=greensock&logoColor=FFFFFF" alt="GSAP">
+      </p>
+    </td>
+  </tr>
+</table>
 
 Projetos selecionados
 
@@ -190,47 +196,62 @@ Formação contínua
 
 Estudo para tomar decisões melhores e aplicar cada conceito em projetos reais — não apenas para acumular tecnologias.
 
-Formação
-
-Plataforma
-
-Conclusão
-
-Desenvolvimento Front End
-
-DevClub
-
-2025
-
-Fullstack
-
-Rocketseat
-
-2025
-
-Desenvolvimento Full Stack
-
-Rocketseat
-
-2025
-
-Back-end com Node.js
-
-Rocketseat
-
-2026
+<table>
+  <thead>
+    <tr>
+      <th align="left">Formação</th>
+      <th align="left">Plataforma</th>
+      <th align="center">Conclusão</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desenvolvimento Front End</td>
+      <td>DevClub</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://app.rocketseat.com.br/certificates/81f16ba3-0210-4487-9691-3e3ebc2b08ee">Fullstack</a></td>
+      <td>Rocketseat</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://app.rocketseat.com.br/certificates/2a60cae3-4976-4318-88a8-38e185497b2e">Desenvolvimento Full Stack</a></td>
+      <td>Rocketseat</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://app.rocketseat.com.br/certificates/e161d21b-4d50-42b5-8907-e74a3fb0dba5">Back-end com Node.js</a></td>
+      <td>Rocketseat</td>
+      <td align="center">2026</td>
+    </tr>
+  </tbody>
+</table>
 
 Em evolução
 
-Arquitetura de software: separar responsabilidades e reduzir acoplamento com Clean Architecture, SOLID e DDD;
-
-APIs REST: criar contratos claros, validações previsíveis e documentação útil;
-
-Dados: aprofundar modelagem, persistência e consultas com PostgreSQL;
-
-Testes: aumentar a confiança com testes unitários, de integração e E2E;
-
-Entrega: evoluir o uso de Docker, deploy e automação de aplicações.
+<table>
+  <tr>
+    <td width="25%"><strong>Arquitetura</strong></td>
+    <td>Separação de responsabilidades, Clean Architecture, SOLID e DDD</td>
+  </tr>
+  <tr>
+    <td><strong>APIs REST</strong></td>
+    <td>Contratos claros, validações previsíveis e documentação útil</td>
+  </tr>
+  <tr>
+    <td><strong>Dados</strong></td>
+    <td>Modelagem, persistência e consultas com PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Testes</strong></td>
+    <td>Testes unitários, de integração e E2E</td>
+  </tr>
+  <tr>
+    <td><strong>Entrega</strong></td>
+    <td>Docker, deploy e automação de aplicações</td>
+  </tr>
+</table>
 
 Atividade no GitHub
 
