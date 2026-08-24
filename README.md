@@ -1,318 +1,252 @@
-<!-- Apresentação principal -->
+<!--
+  Perfil GitHub de Werik Santos
+  Identidade visual baseada em: https://weriksantos.vercel.app/
+  Paleta: #000000 · #09090B · #18181B · #A1A1AA · #D4D4D8 · #FFFFFF
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,100:2563EB&text=Werik%20Santos&fontColor=F8FAFC&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=56&animation=fadeIn"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:09090B,100:18181B&text=Werik%20Santos&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descSize=18&descAlignY=56&animation=fadeIn"
+alt="Werik Santos — Desenvolvedor Full Stack"
+/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas+e+escal%C3%A1veis;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Transformando+problemas+em+solu%C3%A7%C3%B5es+digitais;Interfaces%2C+APIs+e+Intelig%C3%AAncia+Artificial"
-    alt="Apresentação profissional de Werik Santos"
-  />
-</a>
+Construo produtos web claros, acessíveis e preparados para evoluir.
+
+Desenvolvedor com foco em React e Node.js, transformando necessidades de produto em interfaces responsivas e APIs organizadas e testáveis.
 
 <br>
 
-Desenvolvedor focado em criar experiências digitais  
-**funcionais, acessíveis e orientadas a resultados.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/werikanjos">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://weriksantos.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfólio de Werik Santos">
 </a>
-<a href="https://wasportifolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+<a href="https://www.linkedin.com/in/werik-santos/">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn de Werik Santos">
 </a>
 <a href="mailto:werikanjos02@gmail.com">
-  <img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  <img src="https://img.shields.io/badge/E--mail-18181B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail de Werik Santos">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DevWerik&label=VISITAS&color=2563EB&style=flat-square" alt="Visualizações do perfil"/>
-
 </div>
 
----
+Sobre mim
 
-## `01.` Sobre mim
+Sou Desenvolvedor Full Stack com experiência prática na construção e manutenção de aplicações web. Atuo desde a interface até a camada de servidor, com atenção à acessibilidade, à experiência de uso e à sustentabilidade do código.
 
-```typescript
-const werik = {
-  cargo: "Desenvolvedor Full Stack",
-  localizacao: "Brasil",
-  experiencia: [
-    "Projetos autorais",
-    "Trabalhos freelancer",
-    "Instituto Social Sertão"
-  ],
-  frontend: ["React", "TypeScript", "JavaScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "APIs REST"],
-  database: ["PostgreSQL"],
-  interesses: [
-    "Arquitetura de Software",
-    "Performance",
-    "Acessibilidade",
-    "Inteligência Artificial"
-  ],
-  objetivo: "Criar soluções digitais que gerem valor real"
-};
-```
+Minha trajetória reúne projetos autorais, trabalhos freelancer e atuação profissional no SIM Instituto Social. Nesse caminho, desenvolvi interfaces, integrações com APIs, fluxos validados, serviços back-end, persistência de dados, testes automatizados e funcionalidades com Inteligência Artificial.
 
-Sou **Desenvolvedor Full Stack** com experiência prática na construção de aplicações web modernas, responsivas e escaláveis.
 
-Atuo no desenvolvimento de interfaces, componentização, gerenciamento de estados, criação de servidores, consumo de APIs, integração com bancos de dados e implementação de funcionalidades com Inteligência Artificial.
 
-Minha trajetória foi construída por meio de **projetos autorais, trabalhos freelancer e experiências no Instituto Social Sertão**, aplicando conhecimentos técnicos na resolução de necessidades reais.
 
-Atualmente, busco oportunidades como **Desenvolvedor Full Stack Júnior, Desenvolvedor Front-end, Desenvolvedor Back-end ou Estagiário em Desenvolvimento de Software**.
 
----
+Localização
 
-## `02.` O que eu entrego
+Salvador, Bahia — Brasil
+
+Atuação
+
+Desenvolvimento Full Stack, com foco em React e Node.js
+
+Princípios
+
+Clareza, acessibilidade, código sustentável e decisões técnicas com propósito
+
+Objetivo
+
+Criar soluções digitais confiáveis que entreguem valor real ao produto e às pessoas
+
+Experiência
+
+Desenvolvedor Front-end · SIM Instituto Social
+
+Tempo parcial · mar. de 2025 — atualmente
+
+Desenvolvimento e manutenção de funcionalidades da plataforma web, atuando em interface, integrações com APIs e experiência do usuário;
+
+Entrega de um chatbot full stack com React, TypeScript, Node.js e OpenAI API, incluindo gerenciamento de conversas e respostas em tempo real;
+
+Estruturação da camada de servidor para centralizar requisições, proteger credenciais e tratar respostas e falhas da integração;
+
+Implementação de validações, feedbacks e estados de carregamento, sucesso e erro para tornar os fluxos mais claros e confiáveis;
+
+Refatoração de componentes e fluxos em React e TypeScript, aprimorando tipagem, organização e manutenibilidade.
+
+React · TypeScript · Tailwind CSS · shadcn/ui · Context API · React Hook Form · Zod · Node.js · OpenAI API
+
+Tecnologias aplicadas com propósito
+
+Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=FFFFFF" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React_Router-18181B?style=flat-square&logo=reactrouter&logoColor=FFFFFF" alt="React Router">
+  <img src="https://img.shields.io/badge/React_Hook_Form-18181B?style=flat-square&logo=reacthookform&logoColor=FFFFFF" alt="React Hook Form">
+  <img src="https://img.shields.io/badge/Zod-18181B?style=flat-square&logo=zod&logoColor=FFFFFF" alt="Zod">
+</p>
+
+Back-end e dados
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS">
+  <img src="https://img.shields.io/badge/Fastify-18181B?style=flat-square&logo=fastify&logoColor=FFFFFF" alt="Fastify">
+  <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma">
+  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat-square&logo=swagger&logoColor=FFFFFF" alt="APIs REST">
+</p>
+
+Qualidade e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=FFFFFF" alt="Vitest">
+  <img src="https://img.shields.io/badge/Testes_unitários-18181B?style=flat-square&logo=testinglibrary&logoColor=FFFFFF" alt="Testes unitários">
+  <img src="https://img.shields.io/badge/Testes_E2E-18181B?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Testes E2E">
+  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker">
+  <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=FFFFFF" alt="Figma">
+  <img src="https://img.shields.io/badge/GSAP-18181B?style=flat-square&logo=greensock&logoColor=FFFFFF" alt="GSAP">
+</p>
+
+Projetos selecionados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🎨 Front-end
-
-- Interfaces modernas e responsivas;
-- Componentes reutilizáveis;
-- Gerenciamento de estados;
-- Formulários e validações;
-- Integração com APIs;
-- Acessibilidade e performance.
-
-</td>
+      <h3>01 · Pizza Shop</h3>
+      <p><img src="https://img.shields.io/badge/CONCLUÍDO-18181B?style=flat-square" alt="Projeto concluído"></p>
+      <p>Dashboard web para acompanhar indicadores e gerenciar o fluxo de pedidos de um restaurante.</p>
+      <p><strong>Desafio:</strong> reunir métricas, pedidos e filtros em uma interface clara, inclusive durante carregamentos e atualizações.</p>
+      <p><strong>Solução:</strong> páginas responsivas, rotas organizadas, formulários validados, tabelas filtráveis e gráficos com Recharts.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Radix UI</code> <code>Recharts</code> <code>Zod</code></p>
+      <p><a href="https://github.com/DevWerik/pizzashop-web"><strong>Ver código-fonte →</strong></a></p>
+    </td>
     <td width="50%" valign="top">
-
-### ⚙️ Back-end
-
-- Servidores com Node.js;
-- Desenvolvimento de APIs REST;
-- Implementação de regras de negócio;
-- Integração com bancos de dados;
-- Tratamento de requisições;
-- Organização e manutenção de código.
-
-</td>
+      <h3>02 · API de controle financeiro</h3>
+      <p><img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-18181B?style=flat-square" alt="Projeto em desenvolvimento"></p>
+      <p>API para organizar regras e dados de uma plataforma de controle financeiro.</p>
+      <p><strong>Desafio:</strong> estruturar transações, orçamentos e despesas sem acoplar as regras de negócio à infraestrutura.</p>
+      <p><strong>Solução:</strong> responsabilidades bem definidas, persistência em PostgreSQL, validação por schemas e testes automatizados.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Zod</code> <code>Vitest</code></p>
+      <p><a href="https://weriksantos.vercel.app/#projetos"><strong>Ver estudo de caso →</strong></a></p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🤖 Inteligência Artificial
-
-- Integração com APIs de IA;
-- Desenvolvimento de chatbots;
-- Processamento de mensagens;
-- Automação de funcionalidades;
-- Comunicação entre cliente e servidor.
-
-</td>
+      <h3>03 · Lulu IA</h3>
+      <p><img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-18181B?style=flat-square" alt="Projeto de Inteligência Artificial"></p>
+      <p>Chatbot full stack criado para explorar a comunicação entre uma interface web, um servidor Node.js e uma API de Inteligência Artificial.</p>
+      <p><strong>Destaques:</strong> gerenciamento de conversas, respostas em tempo real, proteção de credenciais e tratamento de falhas da integração.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>OpenAI API</code></p>
+      <p><a href="https://github.com/DevWerik/Lulu-IA"><strong>Ver código-fonte →</strong></a></p>
+    </td>
     <td width="50%" valign="top">
-
-### 🧩 Qualidade de software
-
-- Código organizado e reutilizável;
-- Git e versionamento;
-- Design responsivo;
-- Boas práticas de desenvolvimento;
-- Testes automatizados;
-- Deploy de aplicações.
-
-</td>
-  </tr>
-</table>
-
----
-
-## `03.` Stack tecnológica
-
-<div align="center">
-
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="Tecnologias de front-end"/>
-
-<br><br>
-
-### Back-end e banco de dados
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,nest,prisma&theme=dark" alt="Tecnologias de back-end"/>
-
-<br><br>
-
-### Ferramentas e ambiente
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm&theme=dark" alt="Ferramentas de desenvolvimento"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-Intermediário-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediário-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Em_evolução-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Em_evolução-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## `04.` Projetos que representam meu trabalho
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 [Lulu IA](https://github.com/DevWerik/Lulu-IA)
-
-Chatbot criado para explorar a comunicação entre uma interface web, um servidor Node.js e uma API de Inteligência Artificial.
-
-**Destaques técnicos**
-
-- Integração com serviço de IA;
-- Processamento de mensagens;
-- Comunicação front-end e back-end;
-- Criação de servidor Node.js;
-- Consumo e tratamento de API.
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-2563EB?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-</td>
-    <td width="50%" valign="top">
-
-### ✅ [To-Do List](https://github.com/DevWerik/To-Do-List)
-
-Aplicação para gerenciamento de tarefas com operações de criação, edição, exclusão e atualização de status.
-
-**Destaques técnicos**
-
-- Componentização com React;
-- Tipagem com TypeScript;
-- Hooks personalizados;
-- Navegação com React Router;
-- Simulação de API com JSON Server.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 [Portfólio pessoal](https://github.com/DevWerik/my-portifolio)
-
-Aplicação responsiva desenvolvida para apresentar minha trajetória profissional, experiências, habilidades e projetos.
-
-**Destaques técnicos**
-
-- Design responsivo e mobile-first;
-- Componentes reutilizáveis;
-- Formulários com validação;
-- Integração com EmailJS;
-- Animações e microinterações.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-</p>
-
-[Ver aplicação online](https://wasportifolio.vercel.app/)
-
-</td>
-    <td width="50%" valign="top">
-
-### ✉️ [Gerador de Convites](https://github.com/DevWerik/Gerador-de-Convites)
-
-Aplicação web criada para gerar convites personalizados por meio de uma experiência simples e interativa.
-
-**Destaques técnicos**
-
-- Manipulação do DOM;
-- Eventos com JavaScript;
-- Personalização de informações;
-- Interface responsiva;
-- Publicação da aplicação.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-[Ver aplicação online](https://gerador-convite.netlify.app/)
-
-</td>
+      <h3>04 · Portfólio pessoal</h3>
+      <p><img src="https://img.shields.io/badge/ONLINE-18181B?style=flat-square" alt="Projeto online"></p>
+      <p>Aplicação responsiva que apresenta experiência, competências, projetos e formação em uma identidade visual consistente.</p>
+      <p><strong>Destaques:</strong> navegação acessível, conteúdo multilíngue, componentes reutilizáveis, animações e formulário de contato.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>GSAP</code> <code>Acessibilidade</code></p>
+      <p>
+        <a href="https://weriksantos.vercel.app/"><strong>Ver aplicação →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/DevWerik/my-portifolio"><strong>Ver código →</strong></a>
+      </p>
+    </td>
   </tr>
 </table>
 
 <div align="center">
 
-### [Explorar todos os meus repositórios →](https://github.com/DevWerik?tab=repositories)
+Explorar todos os repositórios →
 
 </div>
 
----
+Formação contínua
 
-## `05.` Minha evolução
+Formação
+
+Plataforma
+
+Conclusão
+
+Desenvolvimento Front End
+
+DevClub
+
+2025
+
+Fullstack
+
+Rocketseat
+
+2025
+
+Desenvolvimento Full Stack
+
+Rocketseat
+
+2025
+
+Back-end com Node.js
+
+Rocketseat
+
+2026
+
+Atualmente aprofundando
+
+Arquitetura de software, Clean Architecture, SOLID e DDD;
+
+Design, implementação e documentação de APIs REST;
+
+PostgreSQL, modelagem de dados e persistência;
+
+Testes unitários, de integração e E2E;
+
+Docker, deploy e evolução segura de aplicações.
+
+Atividade no GitHub
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevWerik&bg_color=020617&color=94A3B8&line=3B82F6&point=F8FAFC&area=true&area_color=1D4ED8&hide_border=true&custom_title=Atividade%20nos%20últimos%2031%20dias" alt="Gráfico de atividades de Werik"/>
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=DevWerik&bg_color=000000&color=A1A1AA&line=FFFFFF&point=D4D4D8&area=true&area_color=27272A&hide_border=true&custom_title=Contribuições%20recentes"
+alt="Gráfico de contribuições recentes de Werik Santos"
+/>
 
 </div>
 
----
-
-## `06.` Atualmente aprofundando
-
-```text
-Arquitetura de software    ███████░░░  Evoluindo
-Node.js e APIs REST        ████████░░  Prática constante
-PostgreSQL                 ██████░░░░  Aprofundando
-Testes automatizados       █████░░░░░  Em desenvolvimento
-Docker                     █████░░░░░  Em desenvolvimento
-Inteligência Artificial    ███████░░░  Aplicação em projetos
-```
-
-> Meu objetivo não é apenas aprender novas tecnologias, mas compreender quando e por que utilizá-las para resolver problemas reais.
-
-## `07.` Vamos construir algo relevante?
+Vamos construir algo relevante?
 
 <div align="center">
 
-Estou disponível para oportunidades profissionais, projetos freelancer  
-e colaborações em desenvolvimento de software.
+Estou disponível para oportunidades profissionais, projetos freelancer e colaborações em desenvolvimento de software.
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/werikanjos">
-  <img src="https://img.shields.io/badge/Conversar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/werik-santos/">
+  <img src="https://img.shields.io/badge/Conversar_no_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Conversar com Werik Santos no LinkedIn">
 </a>
-
 <a href="mailto:werikanjos02@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_um_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  <img src="https://img.shields.io/badge/Enviar_um_e--mail-18181B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Enviar e-mail para Werik Santos">
 </a>
 
 <br><br>
 
-**Código com propósito. Aprendizado contínuo. Soluções que geram valor.**
+Código sustentável. Experiências claras. Soluções preparadas para evoluir.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,45:0F172A,100:020617"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181B,50:09090B,100:000000"
+alt="Rodapé"
+/>
