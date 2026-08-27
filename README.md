@@ -253,18 +253,6 @@ Em evolução
   </tr>
 </table>
 
-Atividade no GitHub
-
-<div align="center">
-
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DevWerik&bg_color=000000&color=A1A1AA&line=FFFFFF&point=D4D4D8&area=true&area_color=27272A&hide_border=true&custom_title=Contribuições%20recentes"
-alt="Gráfico de contribuições recentes de Werik Santos"
-/>
-
-</div>
-
 Vamos transformar uma ideia em produto?
 
 <div align="center">
